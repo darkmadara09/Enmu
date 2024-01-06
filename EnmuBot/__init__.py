@@ -96,7 +96,7 @@ URL = None
 PORT = 5000
 CERT_PATH = None
 REDIS_URL = ""
-API_ID = 
+API_ID = ""
 API_HASH = ""
 ERROR_LOGS = ( )
 MONGO_DB_URI = ""
@@ -116,7 +116,7 @@ WALL_API = ("")
 SUPPORT_CHAT = ""
 INFOPIC = True
 BOT_USERNAME = ""
-BOT_ID = 
+BOT_ID = ""
 OK = []
 
 try:
